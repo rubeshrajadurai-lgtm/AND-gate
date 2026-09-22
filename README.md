@@ -27,5 +27,8 @@ Procedure:
      7\. Verify the output with the truth table.
 
 Result:  
-     The AND gate circuit was successfully assembled and soldered. The output obtained for different input combinations was verified with the AND gate truth table.  
-![Result](AND gate.jpeg)
+     The AND gate circuit was successfully assembled and soldered. The output obtained for different input combinations was verified with the AND gate truth table.
+
+##Result :
+
+![Result](result.jpeg)
